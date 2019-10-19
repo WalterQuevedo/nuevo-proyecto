@@ -1,7 +1,7 @@
 
 package Sequence;
 
-import java.util.Vector;
+//import java.util.Vector;
 
 interface Selector{
     boolean fin();
