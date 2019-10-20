@@ -3,6 +3,7 @@ package Sequence;
 
 //import java.util.Vector;
 // ESTE ES EL CAMBIO REALIZADO
+//CON ESTE COMENTARIO VAMOS A ASOCIAR UN TAG
 interface Selector{
     boolean fin();
     int actual();
