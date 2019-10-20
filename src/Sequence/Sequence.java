@@ -2,6 +2,7 @@
 package Sequence;
 
 //import java.util.Vector;
+// ESTE ES EL CAMBIO REALIZADO
 interface Selector{
     boolean fin();
     int actual();
