@@ -2,8 +2,6 @@
 package Sequence;
 
 //import java.util.Vector;
-//realizamos un segundo cambio
-//otro comentario porque no abrio la consola por el add
 interface Selector{
     boolean fin();
     int actual();
